@@ -1,0 +1,3 @@
+echo .cache/ >> .gitignore
+echo __pycache__/ >> .gitignore
+echo venv/ >> .gitignore
